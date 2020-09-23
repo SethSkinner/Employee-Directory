@@ -1,6 +1,6 @@
 {
   "name": "employee-directory",
-  "homepage": "sethskinner.github.io/employee-directory/",
+  "homepage": "https://sethskinner.github.io/employee-directory/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
