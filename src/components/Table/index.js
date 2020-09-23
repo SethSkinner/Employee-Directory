@@ -74,13 +74,11 @@ export default function Table({ columns, data }) {
 
                                 <tr {...headerGroup.getHeaderGroupProps()}>
                                     {headerGroup.headers.map(column => (
-
-                                        <th {...column.getHeaderProps(column.getSortbyToggleProps())}
-                                            className= {
-
-                                                column.isSorted ? column.isSortedDesc ? "sort-desc" : "sort-asc" : ""
-
-                                            } >
+                
+                                        <th {...column.getHeaderProps(column.getSortByToggleProps())}
+                                            
+                                            className={
+                                                column.isSorted ? column.isSortedDesc ? "sort-desc" : "sort-asc" : "" }>
 
                                                {column.render("Header")} 
 
