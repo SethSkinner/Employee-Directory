@@ -1,6 +1,6 @@
 {
   "name": "employee-directory",
-  "homepage": "https://sethskinner.github.io/employee-directory/",
+  "homepage": "sethskinner.github.io/employee-directory/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
