@@ -1,7 +1,8 @@
-import React, { useState; useEfuseEffect, useMemo, useEffect } from "react";
+import React, { useState, useEffect, useMemo, } from "react";
 import Card from "./components/Card";
 import Title from "./components/Title";
 import Table from "./components/Table";
+import Employee from "./employee.json";
 
 const App = () => {
 
@@ -12,9 +13,11 @@ const App = () => {
     const data = Employee;
       setData(data);
 
-  }, []);
+  },
+  
+    []);
 
-  const column = useMemo(
+  const columns = useMemo(
 
     () => 
 
@@ -76,7 +79,7 @@ const App = () => {
   );
 
       return (
-        
+
         <div className='App'>
           <Title>Employee Directory</Title>
             <Table

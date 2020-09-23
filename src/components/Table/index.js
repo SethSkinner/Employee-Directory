@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import { useTable, UseFailures, useSortBy, useFilters } from "react-table";
+import { useTable, useSortBy, useFilters } from "react-table";
 import "./style.css"
 
-export default const Table ({ columns, data }) => {
+export default function Table({ columns, data }) {
 
     const [filterNameInput, setFilterNameInput] = useState('');
     const [filterOccupationInput, setFilterOccupationInput] = useState('');
@@ -15,7 +15,7 @@ export default const Table ({ columns, data }) => {
             headerGroups,
             rows,
             prepareRow,
-            setilter
+            setFilter
 
         } = useTable (
 

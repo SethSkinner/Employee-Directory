@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-const Title (props) => {
+const Title = (props) => {
 
     return (
 
