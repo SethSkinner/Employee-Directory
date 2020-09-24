@@ -26,16 +26,16 @@
     {
         "id": 4,
         "name": "Jordan Peterson",
-        "image": "https://www.golf.com/wp-content/uploads/2018/11/tiger-woods-laugh-1.jpg",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.qkuEP5ZM91wNRRkjXyzyqQHaEr%26pid%3DApi&f=1",
         "occupation": "Psychologist",
         "department": "Psycology"
     }
 ]
     {
-        "id": 1,
-        "name": "Tiger Woods",
-        "image": "https://www.golf.com/wp-content/uploads/2018/11/tiger-woods-laugh-1.jpg",
-        "occupation": "golfer",
-        "department": "PGA Tour"
+        "id": 5,
+        "name": "Ron Swanson",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RDa6KC5Z2r-B_gOP4pqD7gHaEK%26pid%3DApi&f=1",
+        "occupation": "bureaucrat",
+        "department": "Government"
     }
 ]
