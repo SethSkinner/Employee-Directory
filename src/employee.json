@@ -7,3 +7,35 @@
         "department": "PGA Tour"
     }
 ]
+    {
+        "id": 2,
+        "name": "keanu reeves",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ltpUgmsa3YiYlEDjyo3NBgHaE6%26pid%3DApi&f=1",
+        "occupation": "Actor",
+        "department": "Movies"
+    }
+]
+    {
+        "id": 3,
+        "name": "Steve Rinella",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tWgmgSzx71gfTkMyUKOK6QHaFj%26pid%3DApi&f=1",
+        "occupation": "Hunter",
+        "department": "Outdoors"
+    }
+]
+    {
+        "id": 4,
+        "name": "Jordan Peterson",
+        "image": "https://www.golf.com/wp-content/uploads/2018/11/tiger-woods-laugh-1.jpg",
+        "occupation": "Psychologist",
+        "department": "Psycology"
+    }
+]
+    {
+        "id": 1,
+        "name": "Tiger Woods",
+        "image": "https://www.golf.com/wp-content/uploads/2018/11/tiger-woods-laugh-1.jpg",
+        "occupation": "golfer",
+        "department": "PGA Tour"
+    }
+]
